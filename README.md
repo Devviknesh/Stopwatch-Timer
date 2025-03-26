@@ -11,7 +11,6 @@ A simple and functional stopwatch timer built using JavaScript, HTML, and CSS. T
 
 Features
 
-Start, Stop, and Reset functionality
 
 Displays elapsed time in hours, minutes, seconds, and milliseconds
 
