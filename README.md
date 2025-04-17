@@ -18,10 +18,6 @@ Lightweight and responsive design
 
 User-friendly interface
 
-Technologies Used
-
-HTML
-
 CSS
 
 JavaScript
